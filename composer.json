@@ -1,0 +1,21 @@
+{
+    "name": "st/device-detect",
+    "description": "Standard Device Detection interface for PHP",
+    "type": "st",
+    "license": "WTF",
+    "authors": [
+        {
+            "name": "maboiteaspam",
+            "email": "no@where.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "psr/http-message": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "st\\": "src/st"
+        }
+    }
+}
