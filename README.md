@@ -17,7 +17,7 @@ The recommended way to install the module is through composer.
   "minimum-stability": "dev",
   "require": {
     "php": ">=5.5.0",
-    "st/device-detect": "1.0.1"
+    "st/device-detect": "v1.0.1"
   },
   "repositories": [
     {
